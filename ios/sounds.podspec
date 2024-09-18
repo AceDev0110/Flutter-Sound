@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
 Flutter plugin that provides audio recording and playback services
                        DESC
-  s.homepage         = 'http://github.com/bsutton/sounds'
+  s.homepage         = 'http://github.com/acedev0110/flutter-sound'
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Sounds' => 'bsutton@noojee.com.au' }
   s.source           = { :path => '.' }

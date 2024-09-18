@@ -2,9 +2,8 @@
 
 ## Sounds
 
-[![](https://raw.githubusercontent.com/acedev0110/flutter-sounds/master/SoundsLogo.png)](https://raw.githubusercontent.com/acedev0110/flutter-sounds/master/SoundsLogo.png)
+[![](https://raw.githubusercontent.com/acedev0110/flutter-sound/master/SoundsLogo.png)](https://raw.githubusercontent.com/acedev0110/flutter-sound/master/SoundsLogo.png)
 
-[![pub version](https://camo.githubusercontent.com/7c696da820eebbf794d24e0b1339ec1a987f8a8a/68747470733a2f2f696d672e736869656c64732e696f2f7075622f762f736f756e64732e7376673f7374796c653d666c61742d737175617265)](https://pub.dartlang.org/packages/sounds)
 
 ## Overview
 

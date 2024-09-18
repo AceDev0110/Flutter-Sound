@@ -29,9 +29,9 @@ The API now needs to be reviewed by the community in order to include any feed b
 
 ~~The main area of concern with the API is the use of Codecs. The current Codec enum describes both a codec and a container.~~ Done
 
-~~The issue~~ [~~Wrap Codec in a MediaFormat~~](https://github.com/bsutton/sounds/issues/5) ~~describes a solution that clearly defines the Codec and Container and allows us to specifiy other details relating to the Media Format such as channels and bit rate.~~ Done
+~~The issue~~ [~~Wrap Codec in a MediaFormat~~](https://github.com/acedev0110/flutter-sound/issues/5) ~~describes a solution that clearly defines the Codec and Container and allows us to specifiy other details relating to the Media Format such as channels and bit rate.~~ Done
 
-Using a MediaFormat also opens the way for [Re-architect codec support into separate packages](https://github.com/bsutton/sounds/issues/3) as it will allow us to fully describe the media format when doing codec translation. The [sounds\_codec](https://github.com/bsutton/sounds_codec) project has been started to host this code.
+Using a MediaFormat also opens the way for [Re-architect codec support into separate packages](https://github.com/acedev0110/flutter-sound/issues/3) as it will allow us to fully describe the media format when doing codec translation. The [sounds\_codec](https://github.com/acedev0110/flutter-sound_codec) project has been started to host this code.
 
 We need to review and make decision on.
 
@@ -56,13 +56,13 @@ Release a stable 1.0 version.
 
 ~~The current project has both a light and a heavy flavor which supports a small or broader set of components via the ffmpeg library.~~ Done
 
-The issue [Re-architect codec support into separate packages](https://github.com/bsutton/sounds/issues/3) describes a plan to move MediaFormat support into separate packages that will allow users to pick and choose which MediaFormat they need to support in their application.
+The issue [Re-architect codec support into separate packages](https://github.com/acedev0110/flutter-sound/issues/3) describes a plan to move MediaFormat support into separate packages that will allow users to pick and choose which MediaFormat they need to support in their application.
 
 This will allow users to minimise the size of their application.
 
 It will also allow third parties to add support for additional MediaFormat.
 
-The [sounds\_codec](https://github.com/bsutton/sounds_codec) hosts this work.
+The [sounds\_codec](https://github.com/acedev0110/flutter-sound_codec) hosts this work.
 
 ## Long Term goals
 

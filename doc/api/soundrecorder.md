@@ -54,7 +54,7 @@ class WellKnownMediaFormats {
 }
 ```
 
-To obtain a recording in a non-native `MediaFormat`, record the audio using one of the `NativeMediaFormats` and then use the [sounds\_codec](https://github.com/bsutton/sounds_codec) package to trans-code the results into the desired `MediaFormat`.
+To obtain a recording in a non-native `MediaFormat`, record the audio using one of the `NativeMediaFormats` and then use the [sounds\_codec](https://github.com/acedev0110/flutter-sound_codec) package to trans-code the results into the desired `MediaFormat`.
 
 The follow table details the navively support MediaFormat on each platform.
 

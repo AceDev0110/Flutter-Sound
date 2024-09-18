@@ -92,5 +92,5 @@ RecorderPlaybackController - pairs a SoundPlayerUI and SoundRecorderUI to provid
 
 Note: there are some limitations on the supported MediaFormat. See the [MediaFormat] section below.
 
-![Demo](https://raw.githubusercontent.com/acedev0110/flutter-sounds/master/example.png)
+![Demo](https://raw.githubusercontent.com/acedev0110/flutter-sound/master/example.png)
 
